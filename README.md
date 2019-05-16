@@ -1,2 +1,2 @@
-# info-gir-github.io
+# g-i-r.github.io
 GIR Issued Information Retrieval
