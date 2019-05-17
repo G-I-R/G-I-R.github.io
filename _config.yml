@@ -1,5 +1,8 @@
-theme: jekyll-theme-tactile
-
-
+theme       : jekyll-theme-tactile
+locale      : "en-US"
+url         : "https://gir.pub"
+baseurl     : ''
+github      : [metadata]
+repository  : "g-i-r/g-i-r.github.io"
 plugins:
   - jekyll-redirect-from
