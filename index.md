@@ -1,3 +1,3 @@
 ---
-redirect_to: https://g-i-r.github.io/deepdotweb/
+redirect_to: https://gir.pub/deepdotweb/
 ---
