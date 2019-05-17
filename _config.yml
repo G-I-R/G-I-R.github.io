@@ -3,6 +3,6 @@ locale      : "en-US"
 url         : "https://gir.pub"
 baseurl     : ''
 github      : [metadata]
-repository  : "g-i-r/g-i-r.github.io"
+repository  : "GIR-pub/GIR-pub.github.io"
 plugins:
   - jekyll-redirect-from
